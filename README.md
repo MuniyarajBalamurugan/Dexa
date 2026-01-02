@@ -29,3 +29,5 @@ Dexa uses:
    ```bash
    git clone https://github.com/MuniyarajBalamurugan/Dexa.git
    cd Dexa
+## 📄 License
+This project is licensed under the MIT License.
